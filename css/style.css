@@ -193,6 +193,7 @@ nav button:hover {
 .filterbar .button-container .text-filter {
     font-weight: bold;
     font-size: 1.3rem;
+    white-space: nowrap;
 }
 
 /****** INFOSBAR ***********/
